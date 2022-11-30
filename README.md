@@ -1,6 +1,6 @@
 # GAPA
 
-Pytorch Implementation for paper "Automatic Context Pattern Generation for Entity Set Expansion".
+Pytorch Implementation for our paper "Automatic Context Pattern Generation for Entity Set Expansion".
 
 
 
@@ -68,4 +68,19 @@ python expan_wiki.py
 ```
 
 Expansion result will be saved under the path set.
+
+
+
+## Citation
+
+If you consider our paper or code useful, please cite our paper:
+
+```
+@article{li2022automatic,
+  title={Automatic Context Pattern Generation for Entity Set Expansion},
+  author={Li, Yinghui and Huang, Shulin and Zhang, Xinwei and Zhou, Qingyu and Li, Yangning and Liu, Ruiyang and Cao, Yunbo and Zheng, Hai-Tao and Shen, Ying},
+  journal={arXiv preprint arXiv:2207.08087},
+  year={2022}
+}
+```
 
